@@ -1,0 +1,19 @@
+1.Write a Python program that prompts the user to enter an integer and handles the ValueError exception if the user enters a non-integer value.
+
+2.Create a program that opens a file and reads its contents. Use a try-except block to handle the FileNotFoundError exception and display a custom error message if the file does not exist.
+
+3.Write a program that calculates the division of two numbers entered by the user. Use a try-except block to handle the ZeroDivisionError exception and display an appropriate error message if the user tries to divide by zero.
+
+4.Create a program that attempts to connect to a website and prints the HTML content if successful. Use a try-except-else block to handle the requests.exceptions.RequestException exception and display an error message if the connection fails.
+
+5.Write a program that opens a file, reads its contents, and writes the contents to a new file. Use a try-except-finally block to ensure that the file is closed even if an exception occurs during the file operations.
+
+6.Write a Python program that reads email details (sender, recipient, subject, and body) from user input and sends the email using Mailtrap as the SMTP server.
+
+7.write a python program to send an email with multiple recipients using the smtplib library.
+
+8.write a python program to handle exceptions when sending emails using Python's smtplib library.
+
+9.Write a Python program that prompts the user to enter their age. Define a custom exception called InvalidAgeError that is raised when the entered age is less than 0 or greater than 150. Handle the InvalidAgeError exception and display an appropriate error message.
+
+10.Write a Python program that simulates a banking system. Implement a class called BankAccount with methods to initialize an account with a starting balance, withdraw funds, and handle a custom exception called NegativeBalanceError when the account balance goes below zero.

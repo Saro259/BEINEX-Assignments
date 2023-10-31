@@ -1,0 +1,8 @@
+Q1: Write a Python program to find the second smallest element in a list
+Q2: Write a Python program to merge two dictionaries and combine the values of common keys.
+Q3: Write a Python program to find the top N elements with the highest values in a dictionary.
+Q4: Write a Python program to check if two lists have any common elements.
+Q5: Write a Python program to find the intersection of two lists.
+Q6: Write a Python program to remove empty dictionaries from a list.
+Q7: Write a Python program to count the number of occurrences of each word in a given sentence.
+Q8:Write a Python program to check if two dictionaries are equal (have the same key-value pairs).

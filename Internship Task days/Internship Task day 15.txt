@@ -1,0 +1,17 @@
+1. Write a python pogram to read the first five charactors from file text.txt.
+
+2. Write a python program to print the number of lines in a file
+
+Create a file and store the poem in the file to perform the next questions.
+"POEM.txt"
+	Ring-a-ring-a-rosies
+	A pocket full of posies
+	A tissue, a tissue
+	We all fall down
+	The king has sent his daughter
+	To fetch a pail of water
+	A tissue, a tissue
+	We all fall down
+3. Write a python program to open a file 'poem.txt' in read mode and count the number of times the word 'tissue' occurs
+4. Write a function to read lines from "poem.txt" and display all those words which has two charactors in it.
+5. Write a function to read from "poem.txt" and display the lines start with A.

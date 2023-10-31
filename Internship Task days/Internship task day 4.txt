@@ -1,0 +1,29 @@
+1    Python program to print all even/odd numbers in the range given by user
+2    Python program to print the multiplication table of any number (number should be taken as input and user decides the end limit of the table)
+3    Find the factorial of a number taken as input using for loop
+4    Find the factorial of a number taken as input using while loop
+5    Find the sum of all even numbers between the range given by user
+6   Find the sum of all odd numbers between the range given by user using while loop
+7   Print first 10 fibonacci numbers using 'for' and 'while' loops
+8   print the following patterns
+(a)
+	    	*
+           * *
+          * * *
+         * * * *
+
+(b)		o
+		1 2
+		3 4 5
+		6 7 8 9
+
+
+(c)		o
+		1 1
+		2 2 2
+		3 3 3 3
+
+(d)		*
+		* *
+		* * *
+		* * * *

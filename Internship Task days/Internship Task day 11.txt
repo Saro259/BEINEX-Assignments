@@ -1,0 +1,22 @@
+1.Write a function to return even numbers from a list
+
+2.Write a function to find the largest item from a given list
+
+3. Write a Python function that takes a list and returns a new list with unique elements of the first list
+	Sample List : [1,2,3,3,3,3,4,5]
+	Unique List : [1, 2, 3, 4, 5]
+
+4. Write a Python function to multiply all the numbers in a list
+	Sample List : (8, 2, 3, -1, 7)
+	Expected Output : -336
+
+5.Python Program to find sum of digit of number using recursion.
+6.Python Program to add two number using recursion.
+7.Python Program to merge two arrays.
+8.Python program to perform right rotation in array by 2 positions.
+9.Python Program to print all odd numbers in array.
+10.Python Program to print all odd numbers in array.
+11.Python Program to find sum of array elements.
+12.Python Program to delete element from array at given index.
+13.Python Program to calculate length of an array.
+14.Python program to reverse an Array in two ways.

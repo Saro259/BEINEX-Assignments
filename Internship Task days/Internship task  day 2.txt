@@ -1,0 +1,9 @@
+1. Declare a valid identifier as a variable and assign any type value to it, then  print the value
+2. Declare a valid identifier as a variable and assign intiger type value to it, then  print the value
+3. Declare a valid identifier as a variable and assign float type of  value to it, then  print the value
+4. Provide some valid identifiers variable names
+5. Please assign different value to same named variables, without overwriting it
+6. Find the type of this vaiables x=10, y=”ABC”
+7. Declare a string value to a variable
+8. Assign a specified type value to multi word variable
+9. Output a variable using print()function

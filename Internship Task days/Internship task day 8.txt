@@ -1,0 +1,18 @@
+1.Write a Python program to multiples all the items in a list.
+
+2.Write a Python program to remove duplicates from a list,
+
+3.Write a Python program to count the number of strings where the string length is 2 or more.
+	Sample List : ['abc', 'xyz', 'aba', '1']
+	Expected Result : 3
+
+4.Write a Python program to print the numbers of a specified listafter removing even numbers from it
+	list = [24,34,53,65,78,93,23,42]
+
+5.Use list comprehension to contruct a new list but add 6 to each item.
+	list = [24,34,54,45]
+
+6.Using list comprehension, construct a list from the squares of each element in the list, if the square is greater than 50.
+	lst1=[2, 4, 6, 8, 10, 12, 14]
+
+7. Write a Python program to find the repeated items of atuple.

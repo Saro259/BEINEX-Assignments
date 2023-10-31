@@ -1,0 +1,15 @@
+1     Write python programs , which accept two inputs and perform the following arithmetic operations
+	i)    Addition (+)
+        ii)   Subtraction (-)
+        iii)  Multiplication (*)
+        iv)   Division (/)
+        v)    Modulus (%)
+        vi)   Exponentiation (**)
+        vii)  Floor Division (//)  
+2    Python Program to replicate bank transaction: min balance 500, ask user to the amount to withdraw, 
+     print the balance amount after withdrawal, if user enters an amount greater than balance: print:: insufficient balance. 
+     if balance is below 500 print an alert message : your account balance is "available_balance", Please  keep your account balance above Rs.500 to avoid unwanted charges.
+3    Print the greatest of the 3 numbers taken as input, print equal if all three numbers are the same
+4    Python program to check the number taken as an input is even or odd,print invalide input if user enters anything other than integers
+5    Python program to check the score from a student ,print grades as A+ if score >= 90,A if 80 or above, B+ if 70 or above and so on... 
+     print failed if the score is below 50, if score > 100 print invalid
